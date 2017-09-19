@@ -46,7 +46,7 @@ extern "C"
 
 #endif
 ```
-Add a .cpp file with '#include "math.h"' Without it, the compiler will ignore the header file.
+Add a .cpp file with ' #include "math.h" ' Without it, the compiler will ignore the header file.
 Compile the DLL in release mode. **It is important to choose x64** if your computer supports it. 
 .Net Core will run in 64 bit mode, and if the dll is 32 bit, using it will fail! Note the location 
 where the dll got saved.
