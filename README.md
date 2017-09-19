@@ -3,7 +3,7 @@ This demonstrates how to create a native, unmanaged library in C++ and invoke
 it's functionality from a .Net Core Application. This application just creates a notice box, 
 but you could call any function in this manner.
 
-[I wrote an article on medium explaining this]https://blog.quickbird.uk/calling-c-from-net-core-759563bab75d)
+[I wrote an article on medium explaining this](https://blog.quickbird.uk/calling-c-from-net-core-759563bab75d)
 
 ## Invoking native code
 [Guidance from Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/native-interop)
